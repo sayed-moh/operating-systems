@@ -1,0 +1,22 @@
+sleep 1
+add ahmed 	20 
+add mohamed 	50
+add eslam   	666
+add gggg    	555
+acquire 0
+modify 0 - 200
+release 0
+sleep 2
+query name 0 ahmed salary == 10
+query name 0 mohamed
+query name 1 aly
+query name 1 mohab salary >= 200
+query name 0 maro salary <= 200
+query name 0 mohamed salary <= 200
+query name 0 sayed salary > 200
+query name 0 nada salary < 200
+query salary == 10
+query salary >= 200
+query salary <= 200
+query salary > 200
+query salary < 200

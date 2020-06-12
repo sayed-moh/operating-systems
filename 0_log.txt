@@ -1,0 +1,6 @@
+2020-06-07 10:26:54 client 0 started pid: 5600
+2020-06-07 10:27:00 client add: khaled 2000
+2020-06-07 10:27:00: client acquire: 0
+2020-06-07 10:27:00: client modify command, 0 + 100
+2020-06-07 10:27:00: client release: 0
+2020-06-07 10:27:10: CLient query salary: > 100

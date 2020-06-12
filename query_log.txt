@@ -1,0 +1,41 @@
+2020-06-07 10:26:54: query_logger: started
+2020-06-07 10:26:57: client pid 5602 query:
+	empty
+2020-06-07 10:26:57: client pid 5602 query:
+	key: 1, name mohamed, salary: 50
+2020-06-07 10:26:57: client pid 5602 query:
+	empty
+2020-06-07 10:26:57: client pid 5602 query:
+	empty
+2020-06-07 10:26:57: client pid 5602 query:
+	empty
+2020-06-07 10:26:57: client pid 5602 query:
+	key: 1, name mohamed, salary: 50
+2020-06-07 10:26:57: client pid 5602 query:
+	empty
+2020-06-07 10:26:57: client pid 5602 query:
+	empty
+2020-06-07 10:26:57: client pid 5602 query:
+	empty
+2020-06-07 10:26:57: client pid 5602 query:
+	key: 2, name eslam, salary: 666
+	key: 3, name gggg, salary: 555
+	key: 4, name khaled, salary: 2000
+2020-06-07 10:26:57: client pid 5602 query:
+	key: 0, name ahmed, salary: -180
+	key: 1, name mohamed, salary: 50
+2020-06-07 10:26:57: client pid 5602 query:
+	key: 2, name eslam, salary: 666
+	key: 3, name gggg, salary: 555
+	key: 4, name khaled, salary: 2000
+2020-06-07 10:26:57: client pid 5602 query:
+	key: 0, name ahmed, salary: -180
+	key: 1, name mohamed, salary: 50
+2020-06-07 10:27:05: client pid 5601 query:
+	key: 0, name ahmed, salary: -80
+	key: 1, name mohamed, salary: 50
+2020-06-07 10:27:10: client pid 5600 query:
+	key: 2, name eslam, salary: 666
+	key: 3, name gggg, salary: 555
+	key: 4, name khaled, salary: 2000
+	key: 5, name khaled, salary: 2000

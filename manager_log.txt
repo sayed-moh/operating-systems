@@ -1,0 +1,13 @@
+2020-06-07 10:26:54 manager started pid: 5596
+2020-06-07 10:26:55 add: nameahmed salary:20 key:0
+2020-06-07 10:26:55 add: namemohamed salary:50 key:1
+2020-06-07 10:26:55 add: nameeslam salary:666 key:2
+2020-06-07 10:26:55 add: namegggg salary:555 key:3
+2020-06-07 10:26:55 acquire: 0 5602 success
+2020-06-07 10:26:55 add: namekhaled salary:2000 key:4
+2020-06-07 10:26:55 modify: key: 0 old_salary: 20  - amount:200  new_salary:-180
+2020-06-07 10:26:55 release: key:0 nextpid:-1
+2020-06-07 10:27:00 add: namekhaled salary:2000 key:5
+2020-06-07 10:27:00 acquire: 0 5600 success
+2020-06-07 10:27:00 modify: key: 0 old_salary: -180  + amount:100  new_salary:-80
+2020-06-07 10:27:00 release: key:0 nextpid:-1
